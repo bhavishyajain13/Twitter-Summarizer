@@ -1,0 +1,489 @@
+['A', 'view', 'Earth', 'Moon', 'NASAA', 'view', 'Earth', 'Moon', 'NASA'] ['One', 'mission', 'Four', 'astronaut', 'So', 'many', 'way', 'watch', 'Artemis', 'II', 'astronaut', 'announcement', 'The', 'thread', 'tell', 'place', 'find', 'historic', 'event', 'We', 'make', 'history', 'Monday', 'April', '3', 'starting', '11am', 'ET', '1500', 'UTCOne', 'mission', 'Four', 'astronaut', 'So', 'many', 'way', 'watch', 'Artemis', 'II', 'astronaut', 'announcement', 'The', 'thread', 'tell', 'place', 'find', 'historic', 'event', 'We', 'make', 'history', 'Monday', 'April', '3', 'starting', '11am', 'ET', '1500', 'UTC'] ['NASA', 'confirmed', 'Man', 'United', 'fan', 'made', 'safely', 'back', 'Earth', 'NASA', 'confirmed', 'Man', 'United', 'fan', 'made', 'safely', 'back', 'Earth'] ['NASAs', 'moon', 'landing', 'hoax', 'filmed', 'studioNASAs', 'moon', 'landing', 'hoax', 'filmed', 'studio'] ['The', 'planet', 'Neptune', 'captured', 'Voyager', '2', 'spacecraft', 'closeup', 'latitudinal', 'cloud', '50', 'km', '30', 'mile', 'high', 'tallest', 'CreditNASAJPLJustin', 'CowartThe', 'planet', 'Neptune', 'captured', 'Voyager', '2', 'spacecraft', 'closeup', 'latitudinal', 'cloud', '50', 'km', '30', 'mile', 'high', 'tallest', 'CreditNASAJPLJustin', 'Cowart'] ['M51', 'Whirlpool', 'Galaxy', 'Canes', 'Venatici', 'constellation', 'NASA', 'httpstwittercomintenttweeturlhttps3A2F2Ftmblrco2FZpkuVu1UdEhOXM51', 'Whirlpool', 'Galaxy', 'Canes', 'Venatici', 'constellation', 'NASA', 'httpstwittercomintenttweeturlhttps3A2F2Ftmblrco2FZpkuVu1UdEhOX'] ['This', 'train', 'heading', 'toward', 'launch', 'site', 'httpsyoutubecomwatchvqi6YcWK7msAThis', 'train', 'heading', 'toward', 'launch', 'site', 'httpsyoutubecomwatchvqi6YcWK7msA'] ['IC1805', 'Heart', 'Nebula', 'Hubble', 'telescope', 'NASA', 'httpstmblrcoZpkuVu1rI3NgnIC1805', 'Heart', 'Nebula', 'Hubble', 'telescope', 'NASA', 'httpstmblrcoZpkuVu1rI3Ngn'] ['M78', 'Reflection', 'Nebula', 'Orion', 'NASAM78', 'Reflection', 'Nebula', 'Orion', 'NASA'] ['M57', 'The', 'Ring', 'Nebula', 'Hubble', 'image', 'NASA_App', 'httpsapodnasagovapodap230402html', 'Astrophotography', 'astronomy', 'space', 'NebulaM57', 'The', 'Ring', 'Nebula', 'Hubble', 'image', 'NASA_App', 'httpsapodnasagovapodap230402html', 'Astrophotography', 'astronomy', 'space', 'Nebula'] ['Wow', 'thats', 'great', 'shotWow', 'thats', 'great', 'shot'] ['Attending', 'Wrestlemania', 'ever', 'part', 'dream', 'Attending', 'Wrestlemania', 'one', 'hero', 'thats', 'ultimate', 'dream', 'dustinrhodes', 'promoted', 'Grandpa', 'I', 'gotchu', 'covered', 'MiniGoldust', 'WrestleManiaAttending', 'Wrestlemania', 'ever', 'part', 'dream', 'Attending', 'Wrestlemania', 'one', 'hero', 'thats', 'ultimate', 'dream', 'dustinrhodes', 'promoted', 'Grandpa', 'I', 'gotchu', 'covered', 'MiniGoldust', 'WrestleMania'] ['LAUNCH', 'SpaceX', 'Falcon', '9', 'B10752', 'launch', 'SDA', 'Tranche', '0', 'Flight', '1', 'mission', 'Overview', 'httpsnasaspaceflightcom202303tranche0flight1', 'Danny', 'Lentz', 'NSF', 'livestream', 'httpsyoutubecomwatchvqi6YcWK7msALAUNCH', 'SpaceX', 'Falcon', '9', 'B10752', 'launch', 'SDA', 'Tranche', '0', 'Flight', '1', 'mission', 'Overview', 'httpsnasaspaceflightcom202303tranche0flight1', 'Danny', 'Lentz', 'NSF', 'livestream', 'httpsyoutubecomwatchvqi6YcWK7msA'] ['Andromeda', 'Southern', 'Skies', 'image', 'NASA_App', '10212022', 'httpsapodnasagovapodap221021html', 'Astrophotography', 'astronomy', 'AndromedaAndromeda', 'Southern', 'Skies', 'image', 'NASA_App', '10212022', 'httpsapodnasagovapodap221021html', 'Astrophotography', 'astronomy', 'Andromeda'] ['cygnus', 'loop', 'nebula', 'ultraviolet', 'look', 'like', 'something', 'scifi', 'movie', 'image', 'credit', 'NASAJPLCaltechthe', 'cygnus', 'loop', 'nebula', 'ultraviolet', 'look', 'like', 'something', 'scifi', 'movie', 'image', 'credit', 'NASAJPLCaltech'] ['IBM', 'acronym', 'initialism', 'Acronyms', 'pronounced', 'word', 'like', 'NASAIBM', 'acronym', 'initialism', 'Acronyms', 'pronounced', 'word', 'like', 'NASA'] ['Uzayda', 'ıslak', 'bir', 'havluyu', 'sıkınca', 'ne', 'olacağını', 'görüyorsunuz', 'CSANASAUzayda', 'ıslak', 'bir', 'havluyu', 'sıkınca', 'ne', 'olacağını', 'görüyorsunuz', 'CSANASA'] ['Through', 'WomensHistoryMonth', 'every', 'day', 'honor', 'woman', 'NASA', 'brought', 'u', 'inspire', 'generation', 'past', 'present', 'future', 'explore', 'cosmos', 'httpnasagovwomenThrough', 'WomensHistoryMonth', 'every', 'day', 'honor', 'woman', 'NASA', 'brought', 'u', 'inspire', 'generation', 'past', 'present', 'future', 'explore', 'cosmos', 'httpnasagovwomen'] ['I', 'sending', 'NASA', 'star', 'Alia', 'Bhatt', 'I', 'sending', 'NASA', 'star', 'Alia', 'Bhatt'] ['realized', 'lewis', 'NASA', 'space', 'ship', 'behind', 'himjust', 'realized', 'lewis', 'NASA', 'space', 'ship', 'behind'] ['LA', 'RATA', 'ASTRONAUTA', 'DE', 'LA', 'NASA', 'LA', 'RATA', 'ASTRONAUTA', 'DE', 'LA', 'NASA'] ['dear', 'friend', 'Have', 'nice', 'Happy', 'weekend', 'NATO', 'NASA', 'nature', 'weekendmy', 'dear', 'friend', 'Have', 'nice', 'Happy', 'weekend', 'NATO', 'NASA', 'nature', 'weekend'] ['Having', 'I', 'Dont', 'Understand', 'But', 'I', 'Luv', 'U', 'comment', 'Live', 'touched', 'heart', 'member', 'one', 'song', 'upcoming', 'CB', 'really', 'prof', 'much', 'boy', 'love', 'cherish', 'Carats', 'much', 'Nasa', 'tamang', 'fandom', 'talaga', 'koHaving', 'I', 'Dont', 'Understand', 'But', 'I', 'Luv', 'U', 'comment', 'Live', 'touched', 'heart', 'member', 'one', 'song', 'upcoming', 'CB', 'really', 'prof', 'much', 'boy', 'love', 'cherish', 'Carats', 'much', 'Nasa', 'tamang', 'fandom', 'talaga', 'ko'] ['NASA', 'reveal', 'Artemis', 'II', 'crew', 'tomorrow', '3', 'US', 'astronaut', '1', 'Canadian', 'astronaut', 'fly', 'aboard', 'Orion', 'Credit', 'NASANASA', 'reveal', 'Artemis', 'II', 'crew', 'tomorrow', '3', 'US', 'astronaut', '1', 'Canadian', 'astronaut', 'fly', 'aboard', 'Orion', 'Credit', 'NASA'] ['selfies', 'posted', 'nung', 'nasa', 'pasyal', 'pero', 'recent', 'story', 'selfies', 'posted', 'nung', 'nasa', 'pasyal', 'pero', 'recent', 'story'] ['Ship', '24', 'rolling', 'launch', 'site', 'Booster', '7', 'soon', 'reunited', 'stacking', 'Live', 'commentary', 'httpsyoutubecomwatchvgTGvYlZB5BAShip', '24', 'rolling', 'launch', 'site', 'Booster', '7', 'soon', 'reunited', 'stacking', 'Live', 'commentary', 'httpsyoutubecomwatchvgTGvYlZB5BA'] ['cloak', 'tech', '003', 'explanation', 'required', 'well', 'work', 'distance', 'anyway', 'UFOTwitter', 'UFO', 'UFOSightings', 'uaptwitter', 'nasa', 'UAP', 'Aliens', 'OVNI', 'oppose', 'deception', 'cloak', 'tech', '003', 'explanation', 'required', 'well', 'work', 'distance', 'anyway', 'UFOTwitter', 'UFO', 'UFOSightings', 'uaptwitter', 'nasa', 'UAP', 'Aliens', 'OVNI', 'oppose', 'deception'] ['This', 'beautiful', 'galaxy', 'NGC', '2442', 'situated', '50', 'million', 'lightyears', 'far', 'It', 'two', 'prominent', 'arm', 'big', 'central', 'bar', 'bulge', 'This', 'NASAs', 'APOD', 'today', 'Image', 'Credit', 'Copyright', 'Nicolas', 'Rolland', 'Martin', 'PughThis', 'beautiful', 'galaxy', 'NGC', '2442', 'situated', '50', 'million', 'lightyears', 'far', 'It', 'two', 'prominent', 'arm', 'big', 'central', 'bar', 'bulge', 'This', 'NASAs', 'APOD', 'today', 'Image', 'Credit', 'Copyright', 'Nicolas', 'Rolland', 'Martin', 'Pugh'] ['NGC', '2442', 'Galaxy', 'Volans', 'image', 'NASA_App', 'httpsapodnasagovapodap230401html', 'Astrophotography', 'astronomy', 'space', 'GalaxyNGC', '2442', 'Galaxy', 'Volans', 'image', 'NASA_App', 'httpsapodnasagovapodap230401html', 'Astrophotography', 'astronomy', 'space', 'Galaxy'] ['The', 'northern', 'light', 'seen', 'ISS', 'The', 'video', 'begin', 'green', 'hue', 'northern', 'light', 'dancing', 'across', 'sky', 'North', 'America', 'The', 'curvature', 'Earth', 'visible', 'aurora', 'atmosphere', 'meet', 'darkness', 'space', 'Credit', 'NASAThe', 'northern', 'light', 'seen', 'ISS', 'The', 'video', 'begin', 'green', 'hue', 'northern', 'light', 'dancing', 'across', 'sky', 'North', 'America', 'The', 'curvature', 'Earth', 'visible', 'aurora', 'atmosphere', 'meet', 'darkness', 'space', 'Credit', 'NASA'] ['Confirmed', 'Nasa', 'bday', 'celeb', 'si', 'Donny', 'ni', 'Meme', 'viceConfirmed', 'Nasa', 'bday', 'celeb', 'si', 'Donny', 'ni', 'Meme', 'vice'] ['New', 'Zealand', 'seen', 'International', 'Space', 'Station', 'Credit', 'NASANew', 'Zealand', 'seen', 'International', 'Space', 'Station', 'Credit', 'NASA'] ['I', 'meaning', 'post', 'basic', 'chart', 'various', 'type', 'gas', 'relates', 'hundred', 'phase', 'UFOs', 'I', 'processed', 'past', 'month', 'Using', 'clean', 'version', 'AI', 'model', 'based', 'solely', 'sharpening', 'NASA', 'us', 'I', 'chemist', 'I', 'see', 'colorI', 'meaning', 'post', 'basic', 'chart', 'various', 'type', 'gas', 'relates', 'hundred', 'phase', 'UFOs', 'I', 'processed', 'past', 'month', 'Using', 'clean', 'version', 'AI', 'model', 'based', 'solely', 'sharpening', 'NASA', 'us', 'I', 'chemist', 'I', 'see', 'color'] ['The', 'last', 'ray', 'orbital', 'sunset', 'illuminate', 'Earths', 'atmosphere', 'stunning', 'shot', 'International', 'Space', 'Station', 'Credit', 'NASAThe', 'last', 'ray', 'orbital', 'sunset', 'illuminate', 'Earths', 'atmosphere', 'stunning', 'shot', 'International', 'Space', 'Station', 'Credit', 'NASA'] ['Were', 'two', 'day', 'away', 'Artemis', 'II', 'crew', 'announcement', 'Watch', 'team', 'NASAMichoud', 'bring', 'last', 'five', 'major', 'structure', 'mission', 'NASA_SLS', 'core', 'stage', 'together', 'Learn', 'HERE', 'httpsgonasagov3zmqAdNWere', 'two', 'day', 'away', 'Artemis', 'II', 'crew', 'announcement', 'Watch', 'team', 'NASAMichoud', 'bring', 'last', 'five', 'major', 'structure', 'mission', 'NASA_SLS', 'core', 'stage', 'together', 'Learn', 'HERE', 'httpsgonasagov3zmqAdN'] ['M57', 'The', 'Ring', 'Nebula', 'Hubble', 'httpsapodnasagovapodap230402html', 'NASA', 'esa', 'Hubble', 'Legacy', 'ArchivesProcessingsJudy', 'SchmidtM57', 'The', 'Ring', 'Nebula', 'Hubble', 'httpsapodnasagovapodap230402html', 'NASA', 'esa', 'Hubble', 'Legacy', 'ArchivesProcessingsJudy', 'Schmidt'] ['A', 'new', 'NASAEarth', 'CenterForAstro', 'mission', 'preparing', 'launch', 'first', 'take', 'hourly', 'observation', 'air', 'quality', 'North', 'America', 'Data', 'TEMPO', 'improve', 'forecast', 'reveal', 'disparity', 'pollution', 'exposure', 'within', 'city', 'community', 'httpsgonasagov3K3Zhd4A', 'new', 'NASAEarth', 'CenterForAstro', 'mission', 'preparing', 'launch', 'first', 'take', 'hourly', 'observation', 'air', 'quality', 'North', 'America', 'Data', 'TEMPO', 'improve', 'forecast', 'reveal', 'disparity', 'pollution', 'exposure', 'within', 'city', 'community', 'httpsgonasagov3K3Zhd4'] ['NASA', 'Artemis', 'II', 'crew', 'announced', 'today', '3', 'American', 'astronaut', 'selected', 'go', 'next', 'SLS', 'rocket', 'complete', 'lunar', 'flyby', 'Want', 'remind', 'kid', 'love', 'space', 'keep', 'learning', 'love', 'You', 'may', 'happen', 'end', 'upNASA', 'Artemis', 'II', 'crew', 'announced', 'today', '3', 'American', 'astronaut', 'selected', 'go', 'next', 'SLS', 'rocket', 'complete', 'lunar', 'flyby', 'Want', 'remind', 'kid', 'love', 'space', 'keep', 'learning', 'love', 'You', 'may', 'happen', 'end'] ['The', 'sun', 'still', 'creating', 'chaos', 'NASAs', 'newest', 'videoThe', 'sun', 'still', 'creating', 'chaos', 'NASAs', 'newest', 'video'] ['The', 'Biden', 'regime', 'boycotted', 'Physical', 'Society', 'conference', 'Israel', 'Straughn', 'NASA', 'told', 'organizer', 'cancelation', 'due', 'instruction', 'US', 'State', 'Department', 'The', 'relationship', 'Biden', 'regime', 'Israel', 'deteriorating', 'fast', 'httpsjihadwatchorg202304bidenregimeboycottsisraelThe', 'Biden', 'regime', 'boycotted', 'Physical', 'Society', 'conference', 'Israel', 'Straughn', 'NASA', 'told', 'organizer', 'cancelation', 'due', 'instruction', 'US', 'State', 'Department', 'The', 'relationship', 'Biden', 'regime', 'Israel', 'deteriorating', 'fast', 'httpsjihadwatchorg202304bidenregimeboycottsisrael'] ['And', 'APC', 'planned', 'skitReplying', 'realFFK'] ['Nasa', 'may', 'found', 'life', 'Mars', 'wont', 'know', 'ten', 'year', 'Last', 'week', 'Nasas', 'Perseverance', 'rover', 'collected', 'sample', 'due', 'arrive', '2033', 'Nasa', 'may', 'found', 'life', 'Mars', 'wont', 'know', 'ten', 'year', 'Last', 'week', 'Nasas', 'Perseverance', 'rover', 'collected', 'sample', 'due', 'arrive', '2033'] ['In', 'two', 'day', 'NASA', 'announce', 'astronaut', 'flying', 'NASAArtemis', 'II', 'mission', 'During', 'crewed', 'flight', 'NASA_Orion', 'capsule', 'equipped', 'laser', 'communication', 'system', 'O2O', 'enable', 'transfer', 'highresolution', 'image', 'video', 'back', 'EarthIn', 'two', 'day', 'NASA', 'announce', 'astronaut', 'flying', 'NASAArtemis', 'II', 'mission', 'During', 'crewed', 'flight', 'NASA_Orion', 'capsule', 'equipped', 'laser', 'communication', 'system', 'O2O', 'enable', 'transfer', 'highresolution', 'image', 'video', 'back', 'Earth'] ['Bursted', 'This', 'APC', 'planned', 'skit', 'Ibom', 'airline', 'APCaTorriristOrganizationReplying', 'fkeyamo'] ['NASA', 'This', 'Nasa', 'image', 'show', 'Earth', 'space', 'Also', 'Nasa', 'This', 'Nasa', 'image', 'combination', 'data', 'AKA', 'cgi', 'Funny', 'article', 'debunking', 'flat', 'earth', 'always', 'use', 'cgi', 'image', 'You', 'would', 'think', 'would', '247', 'live', 'feed', 'moon', 'FlatEarth', 'TrueEarthNASA', 'This', 'Nasa', 'image', 'show', 'Earth', 'space', 'Also', 'Nasa', 'This', 'Nasa', 'image', 'combination', 'data', 'AKA', 'cgi', 'Funny', 'article', 'debunking', 'flat', 'earth', 'always', 'use', 'cgi', 'image', 'You', 'would', 'think', 'would', '247', 'live', 'feed', 'moon', 'FlatEarth', 'TrueEarth'] ['light', 'aura', 'BLCK', 'make', 'agent', 'le', 'anxious', 'go', 'best', 'team', 'nasa', 'likod', 'nyo', 'lang', 'kami', 'whatever', 'happens', 'light', 'aura', 'BLCK', 'make', 'agent', 'le', 'anxious', 'go', 'best', 'team', 'nasa', 'likod', 'nyo', 'lang', 'kami', 'whatever', 'happens'] ['At', 'NASA_Langley', 'researcher', 'use', 'computational', 'fluid', 'dynamic', 'CFD', 'predict', 'air', 'move', 'spacecraft', 'airplane', 'Recently', 'used', 'baseball', 'Adding', 'prescribed', 'motion', 'rotation', 'baseball', 'advance', 'group', 'technical', 'skill', 'More', 'httpsgonasagov40Qqx5xAt', 'NASA_Langley', 'researcher', 'use', 'computational', 'fluid', 'dynamic', 'CFD', 'predict', 'air', 'move', 'spacecraft', 'airplane', 'Recently', 'used', 'baseball', 'Adding', 'prescribed', 'motion', 'rotation', 'baseball', 'advance', 'group', 'technical', 'skill', 'More', 'httpsgonasagov40Qqx5x'] ['From', 'archive', 'While', 'still', 'look', 'every', 'inch', 'shiny', 'scifi', 'dream', 'depicted', '80', 'poster', 'NASAs', 'Shuttle', 'Centaur', 'forever', 'remain', 'terra', 'firmaand', 'represents', 'described', 'naive', 'arrogance', 'space', 'shuttle', 'Golden', 'AgeFrom', 'archive', 'While', 'still', 'look', 'every', 'inch', 'shiny', 'scifi', 'dream', 'depicted', '80', 'poster', 'NASAs', 'Shuttle', 'Centaur', 'forever', 'remain', 'terra', 'firmaand', 'represents', 'described', 'naive', 'arrogance', 'space', 'shuttle', 'Golden', 'Age'] ['Can', 'imagine', 'ring', 'system', 'large', 'would', 'eclipse', 'Sun', 'We', 'Astronomers', 'found', 'evidence', 'planet', 'ring', '200', 'time', 'bigger', 'Saturns', 'They', 'also', 'saw', 'ring', 'eclipsing', 'planet', 'Sunlike', 'star', 'httpsgonasagov3zFA8RvCan', 'imagine', 'ring', 'system', 'large', 'would', 'eclipse', 'Sun', 'We', 'Astronomers', 'found', 'evidence', 'planet', 'ring', '200', 'time', 'bigger', 'Saturns', 'They', 'also', 'saw', 'ring', 'eclipsing', 'planet', 'Sunlike', 'star', 'httpsgonasagov3zFA8Rv'] ['Nasa', 'treasonous', '081', 'ET', 'deploying', 'UFOTwitter', 'UFO', 'smudge', 'UFOSightings', 'uaptwitter', 'NASA', 'UAP', 'Aliens', 'OVNI', 'oppose', 'deception', 'deployingNasa', 'treasonous', '081', 'ET', 'deploying', 'UFOTwitter', 'UFO', 'smudge', 'UFOSightings', 'uaptwitter', 'NASA', 'UAP', 'Aliens', 'OVNI', 'oppose', 'deception', 'deploying'] ['NASA', 'Thats', 'one', 'small', 'step', 'man', 'one', 'giant', 'leap', 'mankindNASA', 'Thats', 'one', 'small', 'step', 'man', 'one', 'giant', 'leap', 'mankind'] ['We', 'come', 'far', 'since', 'Apollo', 'capsule', 'Cant', 'wait', 'u', 'return', 'moonReplying', 'NASA'] ['New', 'discovery', 'Saturns', 'vast', 'ring', 'system', 'heating', 'giant', 'planet', 'upper', 'atmosphere', 'The', 'feasible', 'explanation', 'icy', 'ring', 'particle', 'raining', 'onto', 'Saturns', 'atmosphere', 'cause', 'heating', 'Credits', 'NASA', 'ESA', 'Lotfi', 'BenJaffel', 'IAP', 'LPLNew', 'discovery', 'Saturns', 'vast', 'ring', 'system', 'heating', 'giant', 'planet', 'upper', 'atmosphere', 'The', 'feasible', 'explanation', 'icy', 'ring', 'particle', 'raining', 'onto', 'Saturns', 'atmosphere', 'cause', 'heating', 'Credits', 'NASA', 'ESA', 'Lotfi', 'BenJaffel', 'IAP', 'LPL'] ['Sabi', 'nga', 'ni', 'AC', 'kahit', 'nasayo', 'na', 'ang', 'lahat', 'ng', 'talent', 'sa', 'mundo', 'matter', 'attitude', 'One', 'example', 'Belle', 'nasa', 'kanya', 'na', 'ang', 'lahat', 'also', 'know', 'value', 'people', 'around', 'Thats', 'everyone', 'love', 'muchhhh', 'Slay', 'madzam', 'Sabi', 'nga', 'ni', 'AC', 'kahit', 'nasayo', 'na', 'ang', 'lahat', 'ng', 'talent', 'sa', 'mundo', 'matter', 'attitude', 'One', 'example', 'Belle', 'nasa', 'kanya', 'na', 'ang', 'lahat', 'also', 'know', 'value', 'people', 'around', 'Thats', 'everyone', 'love', 'muchhhh', 'Slay', 'madzam'] ['One', 'day', 'announce', 'name', 'Artemis', 'Crew', 'II', 'Are', 'ready', 'Join', 'u', 'tomorrow', '8am', 'PT11am', 'ET', 'httpsbitly3JXeCMIOne', 'day', 'announce', 'name', 'Artemis', 'Crew', 'II', 'Are', 'ready', 'Join', 'u', 'tomorrow', '8am', 'PT11am', 'ET', 'httpsbitly3JXeCMI'] ['Iba', 'ang', 'sagutan', 'ng', 'aming', 'Vivoree', 'Grabe', 'humble', 'smart', 'may', 'word', 'wisdom', 'pretty', 'everything', 'Nasa', 'kanya', 'na', 'lahat', 'Were', 'proud', 'always', 'We', 'believe', 'na', 'someday', 'matupad', 'mo', 'lahat', 'ng', 'pangarap', 'mo', 'You', 'inspired', 'u', 'We', 'always', 'love', 'VIVOREE', 'MATAPANG', 'MEDIATOURIba', 'ang', 'sagutan', 'ng', 'aming', 'Vivoree', 'Grabe', 'humble', 'smart', 'may', 'word', 'wisdom', 'pretty', 'everything', 'Nasa', 'kanya', 'na', 'lahat', 'Were', 'proud', 'always', 'We', 'believe', 'na', 'someday', 'matupad', 'mo', 'lahat', 'ng', 'pangarap', 'mo', 'You', 'inspired', 'u', 'We', 'always', 'love', 'VIVOREE', 'MATAPANG', 'MEDIATOUR'] ['NASA', 'demonstration', '2017', 'The', 'cost', 'handshake', 'RailaOdingaNASA', 'demonstration', '2017', 'The', 'cost', 'handshake', 'RailaOdinga'] ['NASA', 'lunch', 'JUICE', 'Saturn', 'mission', 'Alex', 'KamalLet', 'go', 'ho', 'lateNASA', 'lunch', 'JUICE', 'Saturn', 'mission', 'Alex', 'KamalLet', 'go', 'ho', 'late'] ['First', 'ayuda', 'nasa', 'Japan', 'na', 'ang', 'LoiNie', 'Wishing', 'lot', 'happiness', 'fun', 'iamAndalioLoisa', 'iamr2alonte', 'We', 'love', 'First', 'ayuda', 'nasa', 'Japan', 'na', 'ang', 'LoiNie', 'Wishing', 'lot', 'happiness', 'fun', 'iamAndalioLoisa', 'iamr2alonte', 'We', 'love'] ['Before', 'I', 'family', 'I', 'NASA', 'NASA_Astronauts', 'esa', 'space', 'family', 'Couldnt', 'happier', 'bringing', 'together', 'last', 'week', 'long', 'overdue', 'celebration', 'shared', 'mission', 'Space_Station', 'Expedition61', 'familyBefore', 'I', 'family', 'I', 'NASA', 'NASA_Astronauts', 'esa', 'space', 'family', 'Couldnt', 'happier', 'bringing', 'together', 'last', 'week', 'long', 'overdue', 'celebration', 'shared', 'mission', 'Space_Station', 'Expedition61', 'family'] ['Happy', 'Friday', 'BTSARMY', 'Did', 'survive', 'Jimin_FACE', '1st', 'week', 'half', 'naked', 'fashion', 'boy', 'This', 'week', 'space', 'The', 'spectacular', 'aurora', 'boraalis', 'occurred', 'Jimin', 'Hubble', 'find', 'Saturns', 'ring', 'heat', 'atmosphere', 'Chandra', 'Xray', 'bora', 'galactic', 'windHappy', 'Friday', 'BTSARMY', 'Did', 'survive', 'Jimin_FACE', '1st', 'week', 'half', 'naked', 'fashion', 'boy', 'This', 'week', 'space', 'The', 'spectacular', 'aurora', 'boraalis', 'occurred', 'Jimin', 'Hubble', 'find', 'Saturns', 'ring', 'heat', 'atmosphere', 'Chandra', 'Xray', 'bora', 'galactic', 'wind'] ['They', 'already', 'concluded', 'plan', 'badly', 'treat', 'NigeriansThey', 'already', 'concluded', 'plan', 'badly', 'treat', 'Nigerians'] ['10', 'day', 'ago', 'Today', 'Malala', 'There', 'people', 'AZIMIO', 'asking', 'handshake', 'behind', 'scene', 'Sen', 'Ledama', 'Im', 'AZIMIO', 'Im', 'aware', 'anyone', 'asking', 'handshake', 'Malala', 'Even', '2018', 'I', 'NASA', 'didnt', 'know', 'handshake', 'happened10', 'day', 'ago', 'Today', 'Malala', 'There', 'people', 'AZIMIO', 'asking', 'handshake', 'behind', 'scene', 'Sen', 'Ledama', 'Im', 'AZIMIO', 'Im', 'aware', 'anyone', 'asking', 'handshake', 'Malala', 'Even', '2018', 'I', 'NASA', 'didnt', 'know', 'handshake', 'happened'] ['NASA', 'get', '52m', 'per', 'Day', 'Your', 'Tax', 'MoneyEverydayto', 'Deceive', 'CGISLet', 'sink', 'inNASA', 'get', '52m', 'per', 'Day', 'Your', 'Tax', 'MoneyEverydayto', 'Deceive', 'CGISLet', 'sink'] ['NASAs', 'Marshall', 'Space', 'Flight', 'Center', 'Sierra', 'Space', 'ILC', 'Dover', 'passed', 'another', 'milestone', 'path', 'building', 'fullscale', 'habitat', 'human', 'mission', 'Moon', 'Mars', 'beyond', 'Engineers', 'loaded', 'onethirdscale', 'version', 'inflatable', 'habitat', 'burst', 'failureNASAs', 'Marshall', 'Space', 'Flight', 'Center', 'Sierra', 'Space', 'ILC', 'Dover', 'passed', 'another', 'milestone', 'path', 'building', 'fullscale', 'habitat', 'human', 'mission', 'Moon', 'Mars', 'beyond', 'Engineers', 'loaded', 'onethirdscale', 'version', 'inflatable', 'habitat', 'burst', 'failure'] ['This', 'gorgeous', 'scene', 'stellar', 'creation', 'sits', 'near', 'outskirt', 'Tarantula', 'Nebula', 'The', 'cloud', 'gas', 'dust', 'well', 'many', 'young', 'massive', 'star', 'surrounding', 'perfect', 'laboratory', 'study', 'origin', 'massive', 'star', 'Credit', 'ESAHubble', 'NASA', 'I', 'StephensThis', 'gorgeous', 'scene', 'stellar', 'creation', 'sits', 'near', 'outskirt', 'Tarantula', 'Nebula', 'The', 'cloud', 'gas', 'dust', 'well', 'many', 'young', 'massive', 'star', 'surrounding', 'perfect', 'laboratory', 'study', 'origin', 'massive', 'star', 'Credit', 'ESAHubble', 'NASA', 'I', 'Stephens'] ['NASAの内部関係者ジーンギルモア氏2022213死去が死の床で告白', '父はNASAの関係者で月面着陸捏造の撮影エリアを見た', 'NASA', 'Insider', 'Confesses', 'Deathbed', 'I', 'Filmed', 'Fake', 'Moon', 'Landing', '1969NASAの内部関係者ジーンギルモア氏2022213死去が死の床で告白', '父はNASAの関係者で月面着陸捏造の撮影エリアを見た', 'NASA', 'Insider', 'Confesses', 'Deathbed', 'I', 'Filmed', 'Fake', 'Moon', 'Landing', '1969'] ['I', 'dont', 'think', 'jimins', 'Alone_Face', 'getting', 'enough', 'attention', 'So', 'here', 'lonely', 'Galaxy', 'Lost', 'In', 'Space', 'NGC', '6503', 'existing', 'edge', 'empty', 'patch', 'space', 'called', 'Local', 'Void', '18M', 'light', 'yr', 'away', 'Day', 'night', 'fall', 'repeat', 'Make', 'right', 'gon', 'na', 'alrightI', 'dont', 'think', 'jimins', 'Alone_Face', 'getting', 'enough', 'attention', 'So', 'here', 'lonely', 'Galaxy', 'Lost', 'In', 'Space', 'NGC', '6503', 'existing', 'edge', 'empty', 'patch', 'space', 'called', 'Local', 'Void', '18M', 'light', 'yr', 'away', 'Day', 'night', 'fall', 'repeat', 'Make', 'right', 'gon', 'na', 'alright'] nan nan Perseverance rover collects first Mars sample of new science campaign 
+@NASAPerseverance rover collects first Mars sample of new science campaign 
+@NASA A globular star cluster in the Milky Way galaxy!
+
+(Credit: NASA) The long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.
+#Astrophotography 
+
+Image Credit: Ian Heywood (Oxford U.), SARAO
+Credit #NASAThe long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.
+#Astrophotography 
+
+Image Credit: Ian Heywood (Oxford U.), SARAO
+Credit #NASA I think my fave april fools post was last year this seonghwa fansite turned into a literal NASA stanI think my fave april fools post was last year this seonghwa fansite turned into a literal NASA stan If you #kno you #gno 
+
+We are working with some highly desired #3d #AR developers that create true interoperable assets.
+
+They have also partnered with #NASA and a few other high quality projects.
+
+You want to be the first to have one? You can only get them on #Rize2day…If you #kno you #gno 
+
+We are working with some highly desired #3d #AR developers that create true interoperable assets.
+
+They have also partnered with #NASA and a few other high quality projects.
+
+You want to be the first to have one? You can only get them on #Rize2day… NASA climate cult scientist Kalmus claims that "The IPCC is screaming as loud as any group of scientists ever have" but laments that "almost no one cares". #ClimateScamNASA climate cult scientist Kalmus claims that "The IPCC is screaming as loud as any group of scientists ever have" but laments that "almost no one cares". #ClimateScam Perseverance Samples 'Berea': This image shows the rocky outcrop the Perseverance science team calls “Berea” after the NASA Mars rover extracted a rock core (right) and abraded a circular patch (left). Credits: NASA/JPL-Caltech/ASU/MSSS. DoPerseverance Samples 'Berea': This image shows the rocky outcrop the Perseverance science team calls “Berea” after the NASA Mars rover extracted a rock core (right) and abraded a circular patch (left). Credits: NASA/JPL-Caltech/ASU/MSSS. Do I saw a picture of a pink space suit and tried to redo it, just for fun .
+
+Hey! NASA gentlemen, it would be cool to put colors in space, right?
+@elonmusk
+ would that be technically binding please?
+(Click on the image below to to see it in full) 
+
+#midjourneyv5 #AIartI saw a picture of a pink space suit and tried to redo it, just for fun .
+
+Hey! NASA gentlemen, it would be cool to put colors in space, right?
+@elonmusk
+ would that be technically binding please?
+(Click on the image below to to see it in full) 
+
+#midjourneyv5 #AIart Located ≈ 50 million light-years away, in the constellation of the flying fish, the distorted galaxy NGC 2442 has two spiral arms extending from a pronounced central bar. 
+
+#Astrophotography 
+Image Credit & Copyright: Nicolas Rolland, Martin Pugh
+Credit #NASALocated ≈ 50 million light-years away, in the constellation of the flying fish, the distorted galaxy NGC 2442 has two spiral arms extending from a pronounced central bar. 
+
+#Astrophotography 
+Image Credit & Copyright: Nicolas Rolland, Martin Pugh
+Credit #NASA I support this. Craig of NASA is of Arrako and she'll have a love interest that's a supporting character.I support this. Craig of NASA is of Arrako and she'll have a love interest that's a supporting character. @NASA
+ Watch out on your next mission to anywhere. 
+@TheHoopasNFT
+ are coming with you to moon, mars, just anywhere in universe @NASA
+ Watch out on your next mission to anywhere. 
+@TheHoopasNFT
+ are coming with you to moon, mars, just anywhere in universe  17-Year-Old Student Discovers A New Planet On The Third Day Of Internship At NASA17-Year-Old Student Discovers A New Planet On The Third Day Of Internship At NASA Need someone that can color these two panels if it’s possibleNeed someone that can color these two panels if it’s possible Lf commissioner 
+4 short story telling english 
+Any topic kasama guided questions nasa susunod na twt yung iba
+Drop rates po 
+Deadline wednesday
+
+Guided Questions:
+1.Where does the story take place?
+2.What are you learning about the way each character feels about each other?Lf commissioner 
+4 short story telling english 
+Any topic kasama guided questions nasa susunod na twt yung iba
+Drop rates po 
+Deadline wednesday
+
+Guided Questions:
+1.Where does the story take place?
+2.What are you learning about the way each character feels about each other? NASA will spend about $52 billion to find and destroy the Pioneer 10 probe, launched into space 50 years ago and carrying a message to intelligent life forms that was deemed transphobic.NASA will spend about $52 billion to find and destroy the Pioneer 10 probe, launched into space 50 years ago and carrying a message to intelligent life forms that was deemed transphobic. No surprise here. They cannot get thru the firmament. Never been able to. NASA and FakeX are FakeAF. Like really bad B movie level stuff. The space concept you were taught is satanic in origin and has nothing to do with Reality.No surprise here. They cannot get thru the firmament. Never been able to. NASA and FakeX are FakeAF. Like really bad B movie level stuff. The space concept you were taught is satanic in origin and has nothing to do with Reality. #tbt to this day in 92' when I was chosen by NASA as part of the new astronaut class - "The Hogs."#tbt to this day in 92' when I was chosen by NASA as part of the new astronaut class - "The Hogs." This is an (unflown) Soviet design for a cosmonaut to fly around in space, roughly equivalent to NASA's MMU.This is an (unflown) Soviet design for a cosmonaut to fly around in space, roughly equivalent to NASA's MMU. Bursted! This was where APC supporters planned what happened in Ibom airlineReplying to 
+@abati1990 Elsa who? 
+
+SnowEx was in the field this March – and it’s #WomensHistoryMonth! 
+
+Today, we’re celebrating the female scientists who showshoed and snowmobiled through Alaska, dug snow pits, and measured snow properties for 
+@nasa
+’s SnowEx mission.Elsa who? 
+
+SnowEx was in the field this March – and it’s #WomensHistoryMonth! 
+
+Today, we’re celebrating the female scientists who showshoed and snowmobiled through Alaska, dug snow pits, and measured snow properties for 
+@nasa
+’s SnowEx mission. RISHI KANĀDA - WATER CYCLEFour thousand years ago, Rishi Kaṇāda discussed water cycle in exactly the same way in which NASA and other scientists discuss today. The amazing point is, Kanāda mentions evaporation, transpiration, condensation, precipitation and collection.RISHI KANĀDA - WATER CYCLEFour thousand years ago, Rishi Kaṇāda discussed water cycle in exactly the same way in which NASA and other scientists discuss today. The amazing point is, Kanāda mentions evaporation, transpiration, condensation, precipitation and collection. The NASA Picture of the Day for April 2nd, 2023 is M57: The Ring Nebula from Hubble #NASAThe NASA Picture of the Day for April 2nd, 2023 is M57: The Ring Nebula from Hubble #NASA What a welcome 
+@NASA_Johnson
+ - cotton candy skies, with the moon shot! can’t wait to meet everyone tomorrow! #NASASocialWhat a welcome 
+@NASA_Johnson
+ - cotton candy skies, with the moon shot! can’t wait to meet everyone tomorrow! #NASASocial Starbase OG Hopper welcoming Ship 24 back to the launch site for the test flight!
+
+https://youtube.com/watch?v=gTGvYlZB5BA…Starbase OG Hopper welcoming Ship 24 back to the launch site for the test flight!
+
+https://youtube.com/watch?v=gTGvYlZB5BA… remix coming out today...remix coming out today... ________________________
+
+#BreakingNews: 
+
+#Dione announces partnership with #NASA to create the first blockchain-powered rocket to the moon!  
+_______________________
+
+http://DioneProtocol.com
+_______________________
+#Dione #Blockchain #Dioneprotocol #MoonMission #AprilFools________________________
+
+#BreakingNews: 
+
+#Dione announces partnership with #NASA to create the first blockchain-powered rocket to the moon!  
+_______________________
+
+http://DioneProtocol.com
+_______________________
+#Dione #Blockchain #Dioneprotocol #MoonMission #AprilFools my cousin told me about this local gastropub with gorgeous midcentury modern interiors tapos tangina niya nasa pampanga palamy cousin told me about this local gastropub with gorgeous midcentury modern interiors tapos tangina niya nasa pampanga pala NASA already suspended space shuttle program, vande Bharat today running at 120kmph japan achieved this speed in 1960 just for comparison.NASA already suspended space shuttle program, vande Bharat today running at 120kmph japan achieved this speed in 1960 just for comparison. Ang hirap i-balance ng doing touristy things at pagattend sa ganap ng thai BL actors pag nasa Thailand.  From the grand palace to Panda FC แจ้งวัฒนะ real quick. 
+#HBD23rdOHMPAWATAng hirap i-balance ng doing touristy things at pagattend sa ganap ng thai BL actors pag nasa Thailand.  From the grand palace to Panda FC แจ้งวัฒนะ real quick. 
+#HBD23rdOHMPAWAT IT WORKED! Thank you to all those that sent emails to NASA HQ complaining about Helioviewer not working. It seems to be fixed now! I assume it was not coincidence that within hours of your emails, suddenly it started working again. :)IT WORKED! Thank you to all those that sent emails to NASA HQ complaining about Helioviewer not working. It seems to be fixed now! I assume it was not coincidence that within hours of your emails, suddenly it started working again. :) A blue halo glows around Pluto’s receding crescent in this parting image taken by NASA's New Horizons spacecraft on July 14, 2015. At the time of this shot, New Horizons was 120,000 miles (200,000 kilometers) away from Pluto.A blue halo glows around Pluto’s receding crescent in this parting image taken by NASA's New Horizons spacecraft on July 14, 2015. At the time of this shot, New Horizons was 120,000 miles (200,000 kilometers) away from Pluto. NASA aims to boost diversity at space agency with 2 high-ranking positions https://trib.al/Xx4MN5ZNASA aims to boost diversity at space agency with 2 high-ranking positions https://trib.al/Xx4MN5Z Nasa treasonous > 083
+
+contact!
+#UFOTwitter #UFO #smudge #UFOSightings 
+#uaptwitter  #NASA #UAP #Aliens
+    
+#OVNI
+
+
+we oppose deception Nasa treasonous > 083
+
+contact!
+#UFOTwitter #UFO #smudge #UFOSightings 
+#uaptwitter  #NASA #UAP #Aliens
+    
+#OVNI
+
+
+we oppose deception  Margaret Hamilton, NASA's Chief Software Engineer - 1969
+
+here where the codes that took man to the moon are written.
+
+I tell them to tell me one of fictional cowboys I already know many false storiesMargaret Hamilton, NASA's Chief Software Engineer - 1969
+
+here where the codes that took man to the moon are written.
+
+I tell them to tell me one of fictional cowboys I already know many false stories Indian-origin Engineer Amit Kshatriya will head NASA's Moon to Mars mission. 
+
+From CEOs of global brands to top-tier politicians in the west to NASA scientists, we, Indians, are leaving our mark on the globe.
+
+These traits help a country become a superpower.Indian-origin Engineer Amit Kshatriya will head NASA's Moon to Mars mission. 
+
+From CEOs of global brands to top-tier politicians in the west to NASA scientists, we, Indians, are leaving our mark on the globe.
+
+These traits help a country become a superpower. earth spinnin faster than a bitch - per nasaearth spinnin faster than a bitch - per nasa FCGZ workshop at 
+@ETH_en
+  Treffpunkt #Science City 2023 «Das #Universum». The #NASA expedition is extremely successful so far, and young scientists are looking for living material in samples from space. Thank you to our 
+@FGCZ_EN
+  team and all the participants!! #Omics is fun!FCGZ workshop at 
+@ETH_en
+  Treffpunkt #Science City 2023 «Das #Universum». The #NASA expedition is extremely successful so far, and young scientists are looking for living material in samples from space. Thank you to our 
+@FGCZ_EN
+  team and all the participants!! #Omics is fun! Can someone show 
+@JoeIgbokwe
+ Joe Iberibekwe this business card 
+
+APC named him Okafor Ibe
+
+Obiajulu Uja Hans  mistakenly gave someone this card at the airport 
+@realFFK
+ @fkeyamoCan someone show 
+@JoeIgbokwe
+ Joe Iberibekwe this business card 
+
+APC named him Okafor Ibe
+
+Obiajulu Uja Hans  mistakenly gave someone this card at the airport 
+@realFFK
+ @fkeyamo Yung sila ang nasa gitna 
+
+#ViBrentYung sila ang nasa gitna 
+
+#ViBrent We are going to the Moon!
+
+We’ll be live this Monday, April 3, at 11:00 a.m. ET from the NASA Johnson Space Center in Houston to announce the Canadian astronaut who will take part in the #Artemis II mission to the Moon.
+
+Join us to be part of this historic event! We are going to the Moon!
+
+We’ll be live this Monday, April 3, at 11:00 a.m. ET from the NASA Johnson Space Center in Houston to announce the Canadian astronaut who will take part in the #Artemis II mission to the Moon.
+
+Join us to be part of this historic event!  This is a role model boys should have Navy seal, Harvard medical school and future Nasa Astronaut moon landing.
+https://twitter.com/mrexits/status/1642254237290872832… 
+@DolioJThis is a role model boys should have Navy seal, Harvard medical school and future Nasa Astronaut moon landing.
+https://twitter.com/mrexits/status/1642254237290872832… 
+@DolioJ On April 3, 
+@NASA
+ & 
+@csa_asc
+ will announce which 4 astronauts will fly around the Moon as part of Artemis II!  This will include the 1st Canadian & 1st woman to fly around the Moon.  Watch the announcement live at 11 am ET at the CSA YouTube & Facebook.
+https://beta.ctvnews.ca/national/sci-tech/2023/3/30/1_6336348.amp.html…On April 3, 
+@NASA
+ & 
+@csa_asc
+ will announce which 4 astronauts will fly around the Moon as part of Artemis II!  This will include the 1st Canadian & 1st woman to fly around the Moon.  Watch the announcement live at 11 am ET at the CSA YouTube & Facebook.
+https://beta.ctvnews.ca/national/sci-tech/2023/3/30/1_6336348.amp.html… Mashiro won’t turn around so xiaoting DID IM- Mashiro won’t turn around so xiaoting DID IM-  'M57: The Ring Nebula from Hubble' From the #NASA
+https://apod.nasa.gov/apod/ap230402.html…'M57: The Ring Nebula from Hubble' From the #NASA
+https://apod.nasa.gov/apod/ap230402.html… I heard Peyton Watson was just hired by NASA the way he sending shit to the moon  
+@peytonwatson_I heard Peyton Watson was just hired by NASA the way he sending shit to the moon  
+@peytonwatson_  Level Earth Proof 
+Firmament Dome Level Earth Hub :  https://t.me/followsthewhiterabbit/20011…
+ NASA Fakery & Bloopers Hub  :  https://t.me/followsthewhiterabbit/22454… Level Earth Proof 
+Firmament Dome Level Earth Hub :  https://t.me/followsthewhiterabbit/20011…
+ NASA Fakery & Bloopers Hub  :  https://t.me/followsthewhiterabbit/22454… The so called Eze of Ajao is a known APC man working very closely with 
+@jidesanwoolu
+ 
+
+The APC and Tinubu are on a propaganda spree 
+
+It has been alleged that the claimed arrest was just an audio arrest. The man is in his house enjoying himself 
+
+#TinubuForPrisonThe so called Eze of Ajao is a known APC man working very closely with 
+@jidesanwoolu
+ 
+
+The APC and Tinubu are on a propaganda spree 
+
+It has been alleged that the claimed arrest was just an audio arrest. The man is in his house enjoying himself 
+
+#TinubuForPrison NASA’s James Webb Space Telescope Discovers Silicate Clouds on Distant Exoplanet: Scientists using NASA’s James Webb Space Telescope have made a groundbreaking discovery, observing silicate cloud features and multiple molecules… https://bit.ly/3M8bxvZ #history #weird #scienceNASA’s James Webb Space Telescope Discovers Silicate Clouds on Distant Exoplanet: Scientists using NASA’s James Webb Space Telescope have made a groundbreaking discovery, observing silicate cloud features and multiple molecules… https://bit.ly/3M8bxvZ #history #weird #science #Astronomy Picture of the Day:  via 
+@NASA
+ https://go.nasa.gov/3MaWBgs#Astronomy Picture of the Day:  via 
+@NASA
+ https://go.nasa.gov/3MaWBgs So ..she just talks over Stahl in that flat, nasa,l hateful, grating Southern accent like she does everyone else? No footage shown of her harassing David Hogg & kicking a young woman? What's the point? Glad I'm not watching.Replying to 
+@krassenstein History in the making! Four brave astronauts would be embarking on a journey to the moon, paving the way for future space exploration. We're excited to witness this incredible feat and wish them a safe and successful mission.  #NASA #MoonMission #SpaceExplorationHistory in the making! Four brave astronauts would be embarking on a journey to the moon, paving the way for future space exploration. We're excited to witness this incredible feat and wish them a safe and successful mission.  #NASA #MoonMission #SpaceExploration On Monday, NASA and the Canadian Space Agency will introduce the four astronauts, three from the U.S. and one from Canada, for the first crewed mission to the moon in more than 50 years.On Monday, NASA and the Canadian Space Agency will introduce the four astronauts, three from the U.S. and one from Canada, for the first crewed mission to the moon in more than 50 years. To all those who still think they will best me in disclosure battle:
+
+Check thine self before thou dost wrecketh thine self.
+
+#ufotwitter #uaptwitter #nasa #comeatmebroTo all those who still think they will best me in disclosure battle:
+
+Check thine self before thou dost wrecketh thine self.
+
+#ufotwitter #uaptwitter #nasa #comeatmebro Have you booked your flight to Mars yet? 
+Do it here and your name will fly on a future mission to Mars.
+https://mars.nasa.gov/participate/send-your-name/…
+#NASA #MARSHave you booked your flight to Mars yet? 
+Do it here and your name will fly on a future mission to Mars.
+https://mars.nasa.gov/participate/send-your-name/…
+#NASA #MARS #GO_CGA 
+wts lfb ph go 
+
+Seventeen  ‘FML’  
+
+album w/poster - 550php
+album + wv pob - 730php
+album + wv pob + fansign pc - 930 April 22 dop
+DOP: May 15
+
+pooling wv pob. fs, version
+
+once onhand price nasa form po
+DOO: April 22
+ETA: NETA (May - June)
+
+https://forms.gle/ZJxhKQEDJrhY3LuY9…#GO_CGA 
+wts lfb ph go 
+
+Seventeen  ‘FML’  
+
+album w/poster - 550php
+album + wv pob - 730php
+album + wv pob + fansign pc - 930 April 22 dop
+DOP: May 15
+
+pooling wv pob. fs, version
+
+once onhand price nasa form po
+DOO: April 22
+ETA: NETA (May - June)
+
+https://forms.gle/ZJxhKQEDJrhY3LuY9… Tune in tomorrow - April 3 at 11am ET/ 10am CT as 
+@NASA
+ and 
+@csa_asc
+ announce the team of  who will participate in the #Artemis II mission to the Moon in 2024! Don't miss this historic event! 
+
+Livestream Info : https://space.com/nasa-artemis-2-moon-crew-announcement-livestream…Tune in tomorrow - April 3 at 11am ET/ 10am CT as 
+@NASA
+ and 
+@csa_asc
+ announce the team of  who will participate in the #Artemis II mission to the Moon in 2024! Don't miss this historic event! 
+
+Livestream Info : https://space.com/nasa-artemis-2-moon-crew-announcement-livestream… Don't forget ANZ - The #Artemis Missions have landed in Minecraft in partnership with
+@NASA
+ 
+There are TWO ANZ Live Lessons this week with special NASA guests! Navigate the Orion space capsule on a mission to the moon! #MinecraftEdu Sign up here: http://aka.ms/artemismissions #LinkedDon't forget ANZ - The #Artemis Missions have landed in Minecraft in partnership with
+@NASA
+ 
+There are TWO ANZ Live Lessons this week with special NASA guests! Navigate the Orion space capsule on a mission to the moon! #MinecraftEdu Sign up here: http://aka.ms/artemismissions #Linked Ang simple pero ang cutipie talaga pag nasa CM Board na
+
+#BGYO 
+@bgyo_phAng simple pero ang cutipie talaga pag nasa CM Board na
+
+#BGYO 
+@bgyo_ph #AmitKshatriya is going to lead the "Golden Age of Exploration" as 
+@NASA
+’s newly-established 'Moon to Mars' Programme aims to prepare for humanity’s next giant leap to the Red Planet. 
+
+#Mars #NASA #IndiaShining#AmitKshatriya is going to lead the "Golden Age of Exploration" as 
+@NASA
+’s newly-established 'Moon to Mars' Programme aims to prepare for humanity’s next giant leap to the Red Planet. 
+
+#Mars #NASA #IndiaShining Together we'll make history as our 
+@NASA
+ and 
+@csa_asc
+ astronauts fly around the Moon as part of Artemis II, the first crewed mission to the Moon since the Apollo missions. Tomorrow's announcement demonstrates the strong Canadian and U.S. partnership in space exploration!Together we'll make history as our 
+@NASA
+ and 
+@csa_asc
+ astronauts fly around the Moon as part of Artemis II, the first crewed mission to the Moon since the Apollo missions. Tomorrow's announcement demonstrates the strong Canadian and U.S. partnership in space exploration! In my head 
+Ghostin 
+NASA
+Bad idea 
+
+As melhores do tunIn my head 
+Ghostin 
+NASA
+Bad idea 
+
+As melhores do tun Naol nasa Bali 
+Happy 10th Monthsary Deavy 
+Enjoy lang kayo jan  
+@ivy_lacsina
+ @deannawongstNaol nasa Bali 
+Happy 10th Monthsary Deavy 
+Enjoy lang kayo jan  
+@ivy_lacsina
+ @deannawongst I remember when the higher resolution images came out and the conspiracy minded claimed NASA had nuked Cydonia to hide evidenceI remember when the higher resolution images came out and the conspiracy minded claimed NASA had nuked Cydonia to hide evidence Morgellons/DARPA mouldice. Black Goo ( aka graphene oxide) this guy was talking about this stuff a decade ago…Replying to 
+@vgclements1 So, who is excited about having a Canadian on Artemis II ? 
+@csa_asc
+ @NASA
+ @esa
+ 
+#Canada #Astronaut #ArtemisII #Moon #WeAreGoingSo, who is excited about having a Canadian on Artemis II ? 
+@csa_asc
+ @NASA
+ @esa
+ 
+#Canada #Astronaut #ArtemisII #Moon #WeAreGoing I'm finally back, home sweet home!  
+Had a hard time to watch #teenclashep3 last Friday because di ako makapag focus when I'm using my phone and nasa ibang bahay.  Will rewatch again later using my pc para mas malaki yung screen and nkaheadset (so rinig na rinig). I'm finally back, home sweet home!  
+Had a hard time to watch #teenclashep3 last Friday because di ako makapag focus when I'm using my phone and nasa ibang bahay.  Will rewatch again later using my pc para mas malaki yung screen and nkaheadset (so rinig na rinig).  happy birthday sen 
+@k_77SE
+ wish u always be fine. wish we’re can be best friend, and wish we’re have many more interactions sen. be happy happy birthday sen 
+@k_77SE
+ wish u always be fine. wish we’re can be best friend, and wish we’re have many more interactions sen. be happy  Amazing CO2 clouds captured about an hour before sunrise by the 
+@NASAPersevere
+ rover back on Sol 738 (March 18). 
+
+NASA/JPL-Caltech/Simeon Schmauß
+
+Full res: https://flic.kr/p/2oqLHLgAmazing CO2 clouds captured about an hour before sunrise by the 
+@NASAPersevere
+ rover back on Sol 738 (March 18). 
+
+NASA/JPL-Caltech/Simeon Schmauß
+
+Full res: https://flic.kr/p/2oqLHLg "I'll be the Neil Armstrong of India," 
+
+~ Sushant Singh Rajput
+@itsSSR
+ Visit To #NASA
+
+Bollywood Envied SSR Talent 
+They couldn't handle his level of intelligence he was way beyond their reach. That's why #BollywoodKiGandagi Eliminated him.
+
+#BoycottBollywood
+#JusticeForSSR"I'll be the Neil Armstrong of India," 
+
+~ Sushant Singh Rajput
+@itsSSR
+ Visit To #NASA
+
+Bollywood Envied SSR Talent 
+They couldn't handle his level of intelligence he was way beyond their reach. That's why #BollywoodKiGandagi Eliminated him.
+
+#BoycottBollywood
+#JusticeForSSR An asteroid as long as 33 armadillos nose-to-tail will zip by Earth on Sunday. Relax, it won't hit us--which is a good thing, because armadillos carry leprosy.
+
+If the article seems a little...off, ask yourself what day Saturday is.
+#armadillo #LeprosyAn asteroid as long as 33 armadillos nose-to-tail will zip by Earth on Sunday. Relax, it won't hit us--which is a good thing, because armadillos carry leprosy.
+
+If the article seems a little...off, ask yourself what day Saturday is.
+#armadillo #Leprosy The start of a new science campaign.
+@NASAPersevere
+ recently collected a sample from rock deposits that the science team believe were carried downstream by an ancient river. That means the material may have come from an area well beyond Jezero Crater. http://go.nasa.gov/3m5g5IGThe start of a new science campaign.
+@NASAPersevere
+ recently collected a sample from rock deposits that the science team believe were carried downstream by an ancient river. That means the material may have come from an area well beyond Jezero Crater. http://go.nasa.gov/3m5g5IG @happeehour
+ also can we ask reset of carts? you were able to pause the ticket selling for manifesto then continued after a few minutes to clear the carts lang. would it be possible for this ticketing too? since you’ve mentioned 2k tickets pa po nasa carts and it’s been 2 hours@happeehour
+ also can we ask reset of carts? you were able to pause the ticket selling for manifesto then continued after a few minutes to clear the carts lang. would it be possible for this ticketing too? since you’ve mentioned 2k tickets pa po nasa carts and it’s been 2 hours #SundayFunday, #NaturePhotography, #wallartforsale 
+https://thewallarts.com
+"Embrace the Beauty of Nature with Stunning Wall Art!" #Mars 
+@NASA_Marshall
+ @NASA360#SundayFunday, #NaturePhotography, #wallartforsale 
+https://thewallarts.com
+"Embrace the Beauty of Nature with Stunning Wall Art!" #Mars 
+@NASA_Marshall
+ @NASA360 Teka! Nasa trobol daw si #ISHIRO? There's one way to check it. 
+
+Verify if it's true by tuning in on 
+@iampieofficial
+ tonight, 6 PM for Tropa Trobol! 
+
+Ishiro In Trobol
+#TroPIETrobol
+#PIEShortsTeka! Nasa trobol daw si #ISHIRO? There's one way to check it. 
+
+Verify if it's true by tuning in on 
+@iampieofficial
+ tonight, 6 PM for Tropa Trobol! 
+
+Ishiro In Trobol
+#TroPIETrobol
+#PIEShorts 1/2
+NASA's #Mars_Exploration Program 
+
+NASA’s Perseverance Collects First Mars Sample of New Science Campaign
+
+"NASA’s Perseverance rover cored and stored the first sample of the mission’s newest science campaign on Thursday, March 30.1/2
+NASA's #Mars_Exploration Program 
+
+NASA’s Perseverance Collects First Mars Sample of New Science Campaign
+
+"NASA’s Perseverance rover cored and stored the first sample of the mission’s newest science campaign on Thursday, March 30. Ph=y your system is sick.
+Incest is not a joke when greedy aholes trap people inland #bloodDiamonds 
+We are all related or should be part of natural creation else fate will meet destiny!!!
+@realDonaldTrump
+ McLeods ok boss?
+@NASA
+ bars! Miley bar sheep?
+@eminem
+ GROSS 
+@BBCRadio1PRPh=y your system is sick.
+Incest is not a joke when greedy aholes trap people inland #bloodDiamonds 
+We are all related or should be part of natural creation else fate will meet destiny!!!
+@realDonaldTrump
+ McLeods ok boss?
+@NASA
+ bars! Miley bar sheep?
+@eminem
+ GROSS 
+@BBCRadio1PR Fluid loss can double in high heat and humidity environments. Get fast, long-lasting hydration with 
+@_The_RightStuff
+ (NASA-developed sugar-free formula). Rapidly enters bloodstream for quick relief from dehydration symptoms. #electrolytedrink https://coachl.ink/3yiiT7QFluid loss can double in high heat and humidity environments. Get fast, long-lasting hydration with 
+@_The_RightStuff
+ (NASA-developed sugar-free formula). Rapidly enters bloodstream for quick relief from dehydration symptoms. #electrolytedrink https://coachl.ink/3yiiT7Q #tvajo, 
+@tvajo
+, http://tvajo.com - NASA to Host Media Call on Upcoming Air Quality Satellite Launch via NASA#tvajo, 
+@tvajo
+, http://tvajo.com - NASA to Host Media Call on Upcoming Air Quality Satellite Launch via NASA NASA https://climate.nasa.gov/evidence/ Oxford https://ox.ac.uk/news/2021-08-09-oxford-climate-scientists-no-doubt-about-climate-change… Met office https://metoffice.gov.uk/weather/climate-change/what-is-climate-change… Margaret Thatcher https://youtu.be/aSrBO4_qPzo Stephen Hawking https://youtu.be/yrNoXsaWcmQ The oil PR campaign against the facts:  https://youtu.be/YhDacrl1aSAReplying to @MrMatthewTodd and 
+@AllisonPearson 149 - M57: The Ring Nebula from Hubble
+ 
+It was noticed hundreds of years ago by stargazers who could not understand its ...
+ 
+2023-04-02
+
+#nasa #esa #space #astronomy #cosmos #science #photography #galaxy #universe #milkyway
+ 
+https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_1548.jpg…149 - M57: The Ring Nebula from Hubble
+ 
+It was noticed hundreds of years ago by stargazers who could not understand its ...
+ 
+2023-04-02
+
+#nasa #esa #space #astronomy #cosmos #science #photography #galaxy #universe #milkyway
+ 
+https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_1548.jpg… Indian-origin software and robotics engineer Amit Kshatriya has been appointed to NASA’s Moon to Mars program https://thehaalchal.com/indian-origin-software-and-robotics-engineer-amit-kshatriya-has-been-appointed-to-nasas-moon-to-mars-program/… via 
+@The
+ Haal ChalIndian-origin software and robotics engineer Amit Kshatriya has been appointed to NASA’s Moon to Mars program https://thehaalchal.com/indian-origin-software-and-robotics-engineer-amit-kshatriya-has-been-appointed-to-nasas-moon-to-mars-program/… via 
+@The
+ Haal Chal NASA Astronauts Share Their Space Station Experience on This Week 
+@NASA
+ â March 31, 2023 https://ift.tt/3H6h91x #RwOT #Rwanda #LMWNASA Astronauts Share Their Space Station Experience on This Week 
+@NASA
+ â March 31, 2023 https://ift.tt/3H6h91x #RwOT #Rwanda #LMW 382 - NGC 2442: Galaxy in Volans
+ 
+Distorted galaxy NGC 2442 can be found in the southern constellation of the flyi...
+ 
+2023-04-01
+Nicolas Rolland
+#nasa #esa #space #astronomy #cosmos #science #photography #galaxy #universe #milkyway
+ 
+https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur.jpg…382 - NGC 2442: Galaxy in Volans
+ 
+Distorted galaxy NGC 2442 can be found in the southern constellation of the flyi...
+ 
+2023-04-01
+Nicolas Rolland
+#nasa #esa #space #astronomy #cosmos #science #photography #galaxy #universe #milkyway
+ 
+https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur.jpg…
